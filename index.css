@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.homey{
+    margin-left: 200px;
+}
+.uppernav{
+    background-color: white;
+    
+    
+}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.logo2{
+    width: 90px;
+    height: 40px;
+    margin-left: -90px;
+}
+.firstset{
+       background-image: url(./homesection.7678e756af41582f3cdb.png);
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 550px;
+       width: 100%;
+       
+}
+.firstlink{
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 7px;  
+    padding: 9px; 
+    color: red; 
+}
+.middlelogo{
+    margin: 0 auto;
+  display: block;
+  margin-top: 0px;
+
+}
+.middlelink {
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 7px;  
+    padding: 9px; 
+    color: red; 
+}
+.secondset{
+    background-image: url(./second_second_bg.2b2fc7a3a617bec387c9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+}
+.pizzaimg img{
+    width: 200px;
+}
+.pizzaimg{
+    text-align: center;
+}
+.thirdlink{
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 7px;  
+    padding: 9px; 
+    color: red; 
+}
+.thirdset{
+    background-color:white;
+    height: 600px;
+    margin-top: 30px;
+
+}
+.forthset{
+    background-image: url(./Food\ truck\ text\ bg.de097d81dc5f6abf6c65.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 20px;
+}
+.forthimg img{
+    width: 800px;
+    height: 300px;
+}
+.forthlink{
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 7px;  
+    padding: 10px; 
+    color: red;
+    background-color: white;
+}
+.fifthset{
+    background-image: url(./connect_bg.f6e1523e20eb19aa5fcc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.vertical-line {
+    border-left: 3px solid white; /* Adjust the width and color as needed */
+    height: 200px; /* Adjust the height of the vertical line */
+  }
+  .sixthset{
+    background-color: white;
+    height: 300px;
+    margin-top: 15px;
+  }
+
